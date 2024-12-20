@@ -1,4 +1,4 @@
-package BasicMaths;
+
 
 class Solution {
     public boolean isPalindrome(int x) {

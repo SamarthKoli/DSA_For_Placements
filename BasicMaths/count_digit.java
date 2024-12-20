@@ -1,4 +1,3 @@
-package BasicMaths;
 
 
 class Solution {
